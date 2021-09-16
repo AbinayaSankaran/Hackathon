@@ -32,6 +32,6 @@ Technologies
 3. kafka-streamer
 4. hadoop_hive
 5. spark
-
+6. hadoop 
 ---
 
