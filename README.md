@@ -1,4 +1,4 @@
-# Hackathon 2 - Team sluggers
+Hackathon 2 - Team sluggers
 Problem Statement : NYC Parking Tickets - Violation Location Prediction
 ---
 Members:
@@ -25,16 +25,13 @@ Keywords: Data pre-processing, regression, random forest, XGBoost, Kafka, Spark,
 
 #### Dataset link: https://www.kaggle.com/new-york-city/nyc-parking-tickets?select=Parking_Violations_Issued_-_Fiscal_Year_2016.csv
 ---
-### Service description
-Docker container with a seperate container for : 
+Technologies
+
 1. kafka-zookeeper
 2. kafka-broker
 3. kafka-streamer
 4. hadoop_hive
 5. spark
-
-### Command to start server
-`docker-compose up -d`
 
 ---
 
